@@ -10,5 +10,5 @@ Ben **Akif DORA**, bu dosya benim hakkımda minik bir açıklama dosyasıdır �
 
 **İLETİŞİM**
 > Benimle iletişim kurmak için linke tıklayabilirsiniz!<br>
-> https://linktr.ee/akifdora
+> https://akifdora.github.io
 
