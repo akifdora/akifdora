@@ -12,3 +12,4 @@ Ben **Akif DORA**, bu dosya benim hakkımda minik bir açıklama dosyasıdır �
 > Benimle iletişim kurmak için linke tıklayabilirsiniz!<br>
 > https://akifdora.github.io
 
+![](https://komarev.com/ghpvc/?username=akifdora&color=blueviolet)
