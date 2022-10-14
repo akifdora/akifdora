@@ -13,3 +13,4 @@ Ben **Akif DORA**, bu dosya benim hakk覺mda minik bir a癟覺klama dosyas覺d覺r ��
 > https://akifdora.github.io
 
 ![](https://komarev.com/ghpvc/?username=akifdora&color=blueviolet)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://instagram.com/benakifdora)
