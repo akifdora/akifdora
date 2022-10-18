@@ -18,4 +18,4 @@ Ben **Akif DORA**, bu dosya benim hakk覺mda minik bir a癟覺klama dosyas覺d覺r ��
 ------------
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=akifdora&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akifdora)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)]
