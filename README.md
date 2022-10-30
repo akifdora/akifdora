@@ -16,7 +16,9 @@ Ben **Akif DORA**, bu dosya benim hakk覺mda minik bir a癟覺klama dosyas覺d覺r ��
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1d9bf0?style=flat-quare&labelColor=1d9bf0&logo=twitter&logoColor=white&link=link)](https://twitter.com/benakifdora)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat-quare&labelColor=0a66c2&logo=linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/akifdora/)
 [![Github Badge](https://img.shields.io/badge/-Github-000000?style=flat-quare&labelColor=000000&logo=github&logoColor=white&link=link)](https://github.com/akifdora) 
-[![Dribbble Badge](https://img.shields.io/badge/-Dribbble-e84c88?style=flat-quare&labelColor=e84c88&logo=dribbble&logoColor=white&link=link)](https://dribbble.com/akifdora) 
+[![Dribbble Badge](https://img.shields.io/badge/-Dribbble-e84c88?style=flat-quare&labelColor=e84c88&logo=dribbble&logoColor=white&link=link)](https://dribbble.com/akifdora)
+[![HackerRank Badge](https://img.shields.io/badge/-HackerRank-0e131c?style=flat-quare&labelColor=0e131c&logo=hackerrank&logoColor=white&link=link)](https://www.hackerrank.com/akifdora)
+[![PatikaDev Badge](https://img.shields.io/badge/-Patika.dev-0e131c?style=flat-quare&labelColor=0e131c&logo=circle&logoColor=white&link=link)](https://app.patika.dev/akifdora)
 
 ------------
 
