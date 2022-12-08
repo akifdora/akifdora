@@ -14,4 +14,4 @@
 
 ------------
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=akifdora&show_icons=true&theme=radical) &nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akifdora&layout=compact&theme=radical)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)]
