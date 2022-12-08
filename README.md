@@ -1,5 +1,3 @@
-## Hello World 👋🏾
-
 ```yaml
 name: Akif DORA
 located_in: Derince, Kocaeli
