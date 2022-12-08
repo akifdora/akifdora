@@ -24,9 +24,6 @@ fields_of_interests:
     "Mobile Development",
   ]
 ```
-
-------------
-
 ![Github Badge](https://komarev.com/ghpvc/?username=akifdora&color=blueviolet)
 [![Website Badge](https://img.shields.io/badge/-Website-1db5e7?style=flat-quare&labelColor=1db5e7&logo=internetexplorer&logoColor=white&link=link)](https://akifdora.github.io)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://instagram.com/benakifdora)
