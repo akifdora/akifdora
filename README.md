@@ -18,4 +18,4 @@
 
 ------------
 
-![Languages](https://api.githubtrends.io/user/svg/akifdora/langs?time_range=one_year&theme=dark)
+![MyAwesomeWebDevStack](https://awesome-stack.glitch.me/api/v1/cards?name=akifdora&theme=dracula)
