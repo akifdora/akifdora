@@ -15,3 +15,7 @@
 ------------
 
 ![My Skills](https://skillicons.dev/icons?i=js,nodejs,flutter,php,c,cs,cpp,mysql,sqlite,ps,ai,figma,xd)
+
+------------
+
+https://api.githubtrends.io/user/svg/akifdora/langs?time_range=one_year&theme=dark
