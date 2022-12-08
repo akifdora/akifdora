@@ -46,4 +46,4 @@ fields_of_interests:
 
 ------------
 
-![MyAwesomeWebDevStack](https://awesome-stack.glitch.me/api/v1/cards?name=akifdora&repos=42kocaeli_piscine,42header,discord.js-v13-moderasyon-botu,discord.js-timeout,MathSharp-Matematik-Asistani,discordjs-v14-template,kalp-cizimi-python,ToDo-List-AngularJS,stok-yonetimi-uygulamasi,discord.js-v12-moderasyon-botu-altyapisi,discord.js-v12-kayit-botu-altyapisi&theme=dracula)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=akifdora&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
