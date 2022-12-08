@@ -34,9 +34,8 @@ fields_of_interests:
   ]
 ```
 ## Technologies i have learned and used
-![My Skills]()
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vim,shell,js,nodejs,flutter,php,c,cs,cpp,mysql,sqlite,ps,ai,figma,xd" />
+    <img src="https://skillicons.dev/icons?i=git,vim,js,nodejs,flutter,php,c,cs,cpp,mysql,sqlite,ps,ai,figma,xd" />
   </a>
 </p>
