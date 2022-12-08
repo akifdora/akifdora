@@ -34,6 +34,6 @@ fields_of_interests:
   ]
 ```
 ## Languages
-![Langs](https://skillicons.dev/icons?i=js,nodejs,flutter,php,c,cs,cpp,")
+![Langs](https://skillicons.dev/icons?i=js,flutter,php,c,cs,cpp,")
 ## Technologies
-![Techs](https://skillicons.dev/icons?i=git,vim,bash,mysql,sqlite,mongodb,ps,ai,figma,xd,discord,bots,wordpress,")
+![Techs](https://skillicons.dev/icons?i=git,vim,bash,nodejs,mysql,sqlite,mongodb,discord,bots,wordpress,ps,ai,figma,xd,")
