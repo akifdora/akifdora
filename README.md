@@ -1,4 +1,31 @@
-### Hello World 👋🏾
+## Hello World 👋🏾
+
+```yaml
+name: Akif DORA
+located_in: Derince, Kocaeli
+current_job: Software Developer and Graphic Designer
+education:
+  [
+    "Bachelor's in Management Information Systems in Anadolu University",
+    "Erasmus+ Program in Information Technologies in Sofia, Bulgaria"
+    "Associate's in Computer Programming in Kocaeli University",
+  ]
+certificates:
+  [
+    "Turkcell Geleceği Yazanlar - Web Programming 101",
+    "Turkcell Geleceği Yazanlar - Web Programming 201",
+    "Turkcell Geleceği Yazanlar - Web Programming 301",
+    "Turkcell Geleceği Yazanlar - Web Programming 302",
+    "Turkcell Geleceği Yazanlar - Web Programming 401",
+    "Turkcell Geleceği Yazanlar - Web Programming 402",
+  ]
+fields_of_interests:
+  [
+    "Web Development",
+    "UI/UX",
+    "Mobile Development",
+  ]
+```
 
 ------------
 
@@ -14,7 +41,7 @@
 
 ------------
 
-# Technologies I have learned and used
+## Technologies i have learned and used
 ![My Skills](https://skillicons.dev/icons?i=js,nodejs,flutter,php,c,cs,cpp,mysql,sqlite,ps,ai,figma,xd)
 
 ------------
