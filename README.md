@@ -33,5 +33,7 @@ fields_of_interests:
     "Mobile Development",
   ]
 ```
-## Technologies i have learned and used
-![MySkills](https://skillicons.dev/icons?i=git,vim,bash,js,nodejs,flutter,php,c,cs,cpp,mysql,sqlite,ps,ai,figma,xd,discord,bots,github")
+## Languages
+![Langs](https://skillicons.dev/icons?i=js,nodejs,flutter,php,c,cs,cpp,ps,ai,figma,xd")
+## Technologies
+![Techs](https://skillicons.dev/icons?i=git,vim,bash,mysql,sqlite,ps,ai,figma,xd,discord,bots,github")
