@@ -14,4 +14,4 @@
 
 ------------
 
-![My Skills](https://skillicons.dev/icons?i=js,nodejs,flutter,php,c,cs,cpp,sql,mysql,ps,ai,figma,xd)
+![My Skills](https://skillicons.dev/icons?i=js,nodejs,flutter,php,c,cs,cpp,mysql,sqlite,ps,ai,figma,xd)
