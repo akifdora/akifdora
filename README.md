@@ -18,4 +18,4 @@
 
 ------------
 
-https://api.githubtrends.io/user/svg/akifdora/langs?time_range=one_year&theme=dark
+![Languages](https://api.githubtrends.io/user/svg/akifdora/langs?time_range=one_year&theme=dark)
