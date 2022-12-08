@@ -13,7 +13,7 @@
 [![PatikaDev Badge](https://img.shields.io/badge/-Patika.dev-0e131c?style=flat-quare&labelColor=0e131c&logo=circle&logoColor=white&link=link)](https://app.patika.dev/akifdora)
 
 ------------
-
+# Technologies I have learned and used
 ![My Skills](https://skillicons.dev/icons?i=js,nodejs,flutter,php,c,cs,cpp,mysql,sqlite,ps,ai,figma,xd)
 
 ------------
