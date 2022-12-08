@@ -18,4 +18,4 @@
 
 ------------
 
-![MyAwesomeWebDevStack](https://awesome-stack.glitch.me/api/v1/cards?name=akifdora&theme=dracula)
+![MyAwesomeWebDevStack](https://awesome-stack.glitch.me/api/v1/cards?name=akifdora&repos=42kocaeli_piscine,42header,discord.js-v13-moderasyon-botu,discord.js-timeout,MathSharp-Matematik-Asistani,discordjs-v14-template,kalp-cizimi-python,ToDo-List-AngularJS,stok-yonetimi-uygulamasi,discord.js-v12-moderasyon-botu-altyapisi,discord.js-v12-kayit-botu-altyapisi&theme=dracula)
