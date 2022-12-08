@@ -14,5 +14,4 @@
 
 ------------
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=akifdora&show_icons=true&theme=radical) &nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akifdora&layout=compact&theme=radical)
+![Github stats](https://github-readme-stats.vercel.app/api?username=akifdora&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akifdora&layout=compact&theme=radical)
