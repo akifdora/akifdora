@@ -26,11 +26,14 @@ certificates:
     "Turkcell Geleceği Yazanlar - Web Programming 401",
     "Turkcell Geleceği Yazanlar - Web Programming 402",
   ]
-fields_of_interests:
+interests:
   [
     "Web Development",
-    "UI/UX",
     "Mobile Development",
+    "Discord Bots",
+    "Server Systems",
+    "Cyber Security",
+    "UI/UX",
   ]
 ```
 ## Languages
