@@ -30,7 +30,7 @@ interests:
   [
     "Web Development",
     "Mobile Development",
-    "Discord Bots",
+    "Bot Development",
     "Server Systems",
     "Cyber Security",
     "UI/UX",
