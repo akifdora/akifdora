@@ -14,7 +14,7 @@ current_job: Software Developer and Graphic Designer
 education:
   [
     "Bachelor's in Management Information Systems in Anadolu University",
-    "Erasmus+ Program in Information Technologies in Sofia, Bulgaria"
+    "Erasmus+ Program in Information Technologies in Higher School of Transport "Todor Kableshkov" Sofia, Bulgaria"
     "Associate's in Computer Programming in Kocaeli University",
   ]
 certificates:
