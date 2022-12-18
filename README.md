@@ -9,7 +9,7 @@
 [![PatikaDev Badge](https://img.shields.io/badge/-Patika.dev-0e131c?style=flat-quare&labelColor=0e131c&logo=circle&logoColor=white&link=link)](https://app.patika.dev/akifdora)
 ```yaml
 name: Akif DORA
-located_in: Derince, Kocaeli
+located_in: Derince, KOCAELİ
 current_job: Software Developer and Graphic Designer
 education:
   [
