@@ -36,8 +36,9 @@ interests:
     "UI/UX",
   ]
 ```
+## GitHub Stats
+![akifdora's GitHub stats](https://github-readme-stats.vercel.app/api?username=akifdora&show_icons=true&theme=synthwave) &nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akifdora&layout=compact&theme=synthwave)](https://github.com/akifdora)
 ## Languages
 ![Langs](https://skillicons.dev/icons?i=html,css,js,ts,php,c,cs,cpp,dart,flutter,py,")
 ## Technologies
 ![Techs](https://skillicons.dev/icons?i=vscode,git,vim,bash,nodejs,mysql,sqlite,mongodb,bots,wordpress,cloudflare,ps,ai,figma,xd,")
-![akifdora's GitHub stats](https://github-readme-stats.vercel.app/api?username=akifdora&show_icons=true&theme=synthwave) &nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akifdora&layout=compact&theme=synthwave)](https://github.com/akifdora)
