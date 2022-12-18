@@ -41,4 +41,4 @@ interests:
 ## Technologies
 ![Techs](https://skillicons.dev/icons?i=vscode,git,vim,bash,nodejs,mysql,sqlite,mongodb,bots,wordpress,cloudflare,ps,ai,figma,xd,")
 ## GitHub Stats
-![akifdora's GitHub stats](https://github-readme-stats.vercel.app/api?username=akifdora&show_icons=true&theme=tokyonight)
+![akifdora's GitHub stats](https://github-readme-stats.vercel.app/api?username=akifdora&show_icons=true&theme=synthwave)
