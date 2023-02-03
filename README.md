@@ -38,6 +38,8 @@ interests:
 ```
 ## GitHub Stats
 ![akifdora's GitHub stats](https://github-readme-stats.vercel.app/api?username=akifdora&show_icons=true&theme=synthwave) &nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akifdora&layout=compact&theme=synthwave)](https://github.com/akifdora)
+## Ecole42 Stats
+[![mdora's 42 stats](https://badge42.vercel.app/api/v2/cl9e55uv500160gmf2vacqz6f/stats?cursusId=21&coalitionId=232)](https://github.com/JaeSeoKim/badge42)
 ## Languages
 ![Langs](https://skillicons.dev/icons?i=html,css,js,ts,php,c,cs,cpp,dart,flutter,py,")
 ## Technologies
