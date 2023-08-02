@@ -3,7 +3,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://instagram.com/benakifdora)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat-quare&labelColor=0a66c2&logo=linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/akifdora/)
 [![Github Badge](https://img.shields.io/badge/-Github-000000?style=flat-quare&labelColor=000000&logo=github&logoColor=white&link=link)](https://github.com/akifdora)
-[![Github Badge](https://img.shields.io/badge/-Superuser-4c3184?style=flat-quare&labelColor=000000&logo=superuser&logoColor=white&link=link)](https://gelistiricikafasi.com)
+[![Github Badge](https://img.shields.io/badge/-Geliştirici%20Kafası-4c3184?style=flat-quare&labelColor=4c3184&logo=superuser&logoColor=white&link=link)](https://gelistiricikafasi.com)
 ```yaml
 name: Akif DORA
 located_in: Derince, KOCAELİ
