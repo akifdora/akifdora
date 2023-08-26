@@ -7,7 +7,7 @@
 ```yaml
 name: Akif DORA
 located_in: Derince, KOCAELİ
-current_job: Software Developer at Teknoarge
+current_job: Software Developer
 education:
   [
     "Bachelor's in Management Information Systems in Anadolu University",
