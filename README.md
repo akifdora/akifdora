@@ -1,5 +1,5 @@
 ![Github Badge](https://komarev.com/ghpvc/?username=akifdora&color=blueviolet)
-[![Website Badge](https://img.shields.io/badge/-Website-1db5e7?style=flat-quare&labelColor=1db5e7&logo=internetexplorer&logoColor=white&link=link)](https://akifdora.github.io)
+[![Website Badge](https://img.shields.io/badge/-Website-1db5e7?style=flat-quare&labelColor=1db5e7&logo=googleearth&logoColor=white&link=link)](https://akifdora.github.io)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat-quare&labelColor=0a66c2&logo=linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/akifdora/)
 [![Github Badge](https://img.shields.io/badge/-Github-000000?style=flat-quare&labelColor=000000&logo=github&logoColor=white&link=link)](https://github.com/akifdora)
 ```yaml
