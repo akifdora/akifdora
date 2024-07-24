@@ -2,11 +2,10 @@
 [![Website Badge](https://img.shields.io/badge/-Website-1db5e7?style=flat-quare&labelColor=1db5e7&logo=internetexplorer&logoColor=white&link=link)](https://akifdora.github.io)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat-quare&labelColor=0a66c2&logo=linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/akifdora/)
 [![Github Badge](https://img.shields.io/badge/-Github-000000?style=flat-quare&labelColor=000000&logo=github&logoColor=white&link=link)](https://github.com/akifdora)
-[![Github Badge](https://img.shields.io/badge/-Geliştirici%20Kafası-4c3184?style=flat-quare&labelColor=4c3184&logo=superuser&logoColor=white&link=link)](https://gelistiricikafasi.com)
 ```yaml
 name: Akif DORA
-located_in: Derince, KOCAELİ
-current_job: Software Developer
+located_in: Karesi, BALIKESİR
+current_job: Software Development Specialist at İŞBİR ELEKTRİK SANAYİ A.Ş.
 education:
   [
     "Bachelor's in Management Information Systems in Anadolu University",
@@ -14,14 +13,33 @@ education:
     "Associate's in Computer Programming in Kocaeli University",
   ]
 certificates:
-  [
-    "Turkcell Geleceği Yazanlar - Web Programming 101",
-    "Turkcell Geleceği Yazanlar - Web Programming 201",
-    "Turkcell Geleceği Yazanlar - Web Programming 301",
-    "Turkcell Geleceği Yazanlar - Web Programming 302",
-    "Turkcell Geleceği Yazanlar - Web Programming 401",
-    "Turkcell Geleceği Yazanlar - Web Programming 402",
-  ]
+  Turkcell Geleceği Yazanlar:
+    [
+      "Web Programming • 101, 201, 301, 302, 401, 402",
+      "Advanced Python • 101, 201, 301, 401",
+      "Basic Linux • 101, 201, 301, 401",
+      "Algorithms and Programming with C# • 101, 201",
+    ]
+  BTK Akademi:
+    [
+      "Introduction to Operating Systems",
+      "Website Availability",
+      "Database Attacks and Database Security",
+      "Telecommunication Systems Security",
+      "Introduction to Penetration Testing",
+      "Social Engineering and Phishing",
+      "Linux Operating Systems in Cyber Security",
+      "Safe Software Development",
+      "DoS/DDoS Attacks and Protection",
+      "Introduction to Information Technologies",
+      "Basic Network Technologies",
+    ]
+  LinkedIn:
+    [
+      "Software Testing Principles: Test Management",
+      "Principles of Test Automation",
+      "Programlama Esasları: API'lar ve Web Hizmetleri",
+    ]
 interests:
   [
     "Web Development",
