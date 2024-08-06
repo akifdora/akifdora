@@ -43,11 +43,9 @@ certificates:
 interests:
   [
     "Web Development",
-    "Mobile Development",
     "Bot Development",
     "Server Systems",
     "Cyber Security",
-    "UI/UX",
   ]
 ```
 ## GitHub Stats
