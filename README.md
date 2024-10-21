@@ -8,9 +8,10 @@ located_in: Karesi, BALIKESİR
 current_job: Software Development Specialist at İŞBİR ELEKTRİK SANAYİ A.Ş.
 education:
   [
-    "Bachelor's in Management Information Systems in Anadolu University",
-    "Erasmus+ Program in Information Technologies in Higher School of Transport "Todor Kableshkov" Sofia, Bulgaria"
     "Associate's in Computer Programming in Kocaeli University",
+    "Erasmus+ Program in Information Technologies in Higher School of Transport "Todor Kableshkov" Sofia, Bulgaria"
+    "Bachelor's in Management Information Systems in Anadolu University",
+    "Associate's in Information Management (Second Degree) in Atatürk University",
   ]
 certificates:
   Turkcell Geleceği Yazanlar:
@@ -33,12 +34,27 @@ certificates:
       "DoS/DDoS Attacks and Protection",
       "Introduction to Information Technologies",
       "Basic Network Technologies",
+      "SIEM Fundamentals",
+      "Internet of Things (IoT) and Security",
+      "Introduction to Firewalls"
     ]
   LinkedIn:
     [
       "Software Testing Principles: Test Management",
       "Principles of Test Automation",
-      "Programlama Esasları: API'lar ve Web Hizmetleri",
+      "Programming Fundamentals: APIs and Web Services"
+    ]
+  MongoDB:
+    [
+      "Introduction to MongoDB"
+    ]
+  Cisco Networking Academy:
+    [
+      "Introduction to Cybersecurity"
+    ]
+  Cybrary:
+    [
+      "IT Fundamentals: Basic IT Literacy"
     ]
 interests:
   [
@@ -53,4 +69,4 @@ interests:
 ## Languages
 ![Langs](https://skillicons.dev/icons?i=html,css,js,ts,php,c,cs,cpp,dart,flutter,py,")
 ## Technologies
-![Techs](https://skillicons.dev/icons?i=vscode,git,vim,bash,nodejs,mysql,sqlite,mongodb,bots,wordpress,cloudflare,ps,ai,figma,xd,")
+![Techs](https://skillicons.dev/icons?i=kali,vscode,git,vim,bash,nodejs,mysql,sqlite,mongodb,bots,wordpress,cloudflare,ps,ai,figma,xd,")
