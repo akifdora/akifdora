@@ -5,7 +5,7 @@
 ```yaml
 name: Akif DORA
 located_in: Karesi, BALIKESİR
-current_job: Software Development Specialist at İŞBİR ELEKTRİK SANAYİ A.Ş.
+current_job: Software Development Specialist at Saysis Bilgisayar Sistemleri.Tic.Ltd.Şti.
 education:
   [
     "Associate's in Computer Programming in Kocaeli University",
