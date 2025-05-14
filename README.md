@@ -4,8 +4,8 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000000?style=flat-quare&labelColor=000000&logo=github&logoColor=white&link=link)](https://github.com/akifdora)
 ```yaml
 name: Akif DORA
-located_in: Karesi, BALIKESİR
-current_job: Software Development Specialist at Saysis Bilgisayar Sistemleri.Tic.Ltd.Şti.
+located_in: Derince, KOCAELİ
+current_job: Software Development Specialist at Saysis Bilgisayar Sistemleri Tic. Ltd. Şti.
 education:
   [
     "Associate's in Computer Programming in Kocaeli University",
